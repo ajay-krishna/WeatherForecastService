@@ -1,0 +1,33 @@
+﻿<Properties StartupConfiguration="{7479307D-25B3-4F68-A428-9E50130BF74D}|Default">
+  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Evolve.Weather.Service/Program.cs">
+    <Files>
+      <File FileName="Evolve.Weather.Client.Grpc/Protos/greet.proto" Line="1" Column="1" />
+      <File FileName="Evolve.Weather.Service/Services/GreeterService.cs" Line="1" Column="1" />
+      <File FileName="Evolve.Weather.Service/Protos/greet.proto" Line="1" Column="1" />
+      <File FileName="Evolve.Weather.Service/Properties/launchSettings.json" Line="1" Column="1" />
+      <File FileName="Evolve.Weather.Service/Program.cs" Line="12" Column="33" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="Evolve.Weather" expanded="True">
+            <Node name="Evolve.Weather.Client.Grpc" expanded="True" />
+            <Node name="Evolve.Weather.Service" expanded="True">
+              <Node name="Program.cs" selected="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+      <Pad Id="MonoDevelop.Debugger.WatchPad">
+        <State />
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.ItemProperties.Evolve.Weather.Service PreferredExecutionTarget="/Applications/Firefox.app" />
+</Properties>

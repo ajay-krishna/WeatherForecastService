@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 25.0.1700.7
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Evolve.Weather.Service", "Evolve.Weather.Service\Evolve.Weather.Service.csproj", "{7479307D-25B3-4F68-A428-9E50130BF74D}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Evolve.Weather.Client.Grpc", "Evolve.Weather.Client.Grpc\Evolve.Weather.Client.Grpc.csproj", "{CE63BE0A-F2D1-471E-A7F9-26A21A9CC74B}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{7479307D-25B3-4F68-A428-9E50130BF74D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7479307D-25B3-4F68-A428-9E50130BF74D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7479307D-25B3-4F68-A428-9E50130BF74D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7479307D-25B3-4F68-A428-9E50130BF74D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{CE63BE0A-F2D1-471E-A7F9-26A21A9CC74B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CE63BE0A-F2D1-471E-A7F9-26A21A9CC74B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CE63BE0A-F2D1-471E-A7F9-26A21A9CC74B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CE63BE0A-F2D1-471E-A7F9-26A21A9CC74B}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {965559A5-FA80-41B4-9C07-39CD5DE834AA}
+	EndGlobalSection
+EndGlobal
